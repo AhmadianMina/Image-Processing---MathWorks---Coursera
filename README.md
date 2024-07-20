@@ -1,1 +1,1 @@
-# Image-Processing-MathWorks-Coursera
+# Image Processing - MathWorks Coursera
