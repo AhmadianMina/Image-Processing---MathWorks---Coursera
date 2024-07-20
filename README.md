@@ -1,1 +1,1 @@
-# Image Processing - MathWorks Coursera
+Image Processing for Engineering and Science - Specialization
