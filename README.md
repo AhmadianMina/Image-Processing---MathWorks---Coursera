@@ -5,5 +5,14 @@
      - Representing Images In MATLAB
      - Exploring Image Compression
      - Project: Adjusting a Dark and Rotated Image
+   - Module 3: Thresholding Images
+     - Thresholding Grayscale Images
+     - Converting Between Color Spaces
+     - Analyzing Satellite Images with Color Thresholding
+     - Project: Analyzing Ice Melt
+   - Module 4: Adjusting Image Contrast
+     - Adjusting Contrast in Grayscale and Color Images
+     - Enhancing Images
+     - Project: Histogram Matching
 3. Image Segmentation, Filtering, and Region Analysis
 4. Automating Image Processing
